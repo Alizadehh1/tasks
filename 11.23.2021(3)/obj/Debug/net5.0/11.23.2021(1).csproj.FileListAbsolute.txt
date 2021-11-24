@@ -1,0 +1,16 @@
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).exe
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).deps.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).runtimeconfig.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).runtimeconfig.dev.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\ref\11.23.2021(1).dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\bin\Debug\net5.0\11.23.2021(1).pdb
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).csproj.AssemblyReference.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).AssemblyInfoInputs.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).AssemblyInfo.cs
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).csproj.CoreCompileInputs.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\ref\11.23.2021(1).dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).pdb
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021(3)\obj\Debug\net5.0\11.23.2021(1).genruntimeconfig.cache

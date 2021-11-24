@@ -1,0 +1,23 @@
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.exe
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.deps.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.runtimeconfig.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.runtimeconfig.dev.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\ref\11.23.2021 3cu.dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021 3cu.pdb
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.csproj.AssemblyReference.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.AssemblyInfoInputs.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.AssemblyInfo.cs
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.csproj.CoreCompileInputs.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\ref\11.23.2021 3cu.dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.pdb
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.genruntimeconfig.cache
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).deps.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).runtimeconfig.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).runtimeconfig.dev.json
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).exe
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).dll
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\bin\Debug\net5.0\11.23.2021(1).pdb
+C:\Users\alide\Desktop\Tasks\11.23.2021\11.23.2021 3cu\obj\Debug\net5.0\11.23.2021 3cu.csproj.CopyComplete
